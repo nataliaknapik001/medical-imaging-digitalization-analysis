@@ -52,6 +52,13 @@ The results showed that increasing digital adoption did not immediately translat
 At the same time, the benefits of digital distribution should not be evaluated only from a financial perspective. Moving away from physical CDs may also simplify the distribution process, reduce the need for physical media and printing, and improve the convenience of accessing examination results.
 Further analysis using a larger dataset and a longer observation period would be useful to assess the long-term financial and operational effects of the change. It could also help identify the factors influencing digital adoption and determine whether reaching a higher adoption rate could lead to measurable savings.
 Overall, this case study showed  how data analysis can be used to evaluate a real-world healthcare process and support decisions about digital transformation.
+___________________
+## Tools
+- Excel — initial calculations and KPI analysis
+- SQL — data querying, aggregation, and data quality checks
+- Python & Pandas — data analysis and calculations
+- Matplotlib — data visualization
+- Jupyter Notebook — documenting the Python analysis
 ____________________
 ## Project Structure 
 
@@ -67,10 +74,6 @@ medical-imaging-digitalization-analysis/
     ├── medical_imaging_analysis.xlsx
     ├── medical_imaging_analysis.ipynb
     └── digital_adoption_trend.png
+
 ____________________
-## Tools
-- Excel — initial calculations and KPI analysis
-- SQL — data querying, aggregation, and data quality checks
-- Python & Pandas — data analysis and calculations
-- Matplotlib — data visualization
-- Jupyter Notebook — documenting the Python analysis
+
