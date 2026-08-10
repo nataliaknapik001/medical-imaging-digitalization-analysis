@@ -34,11 +34,12 @@ No patient-level or personally identifiable information is included in the datas
 _____________________
 ## Analysis
 The analysis was performed using several tools, with each tool serving a different purpose:
-Excel — initial calculations and KPI analysis
-SQL — data querying, aggregation, and data quality checks
-Python & Pandas — data analysis and calculations
-Matplotlib — data visualization
-Jupyter Notebook — documenting the Python analysis
+- Excel — initial calculations and KPI analysis
+- SQL — data querying, aggregation, and data quality checks
+- Python & Pandas — data analysis and calculations
+- Matplotlib — data visualization
+- Jupyter Notebook — documenting the Python analysis
+
 The same dataset was analyzed using different tools to better understand the data and build a reproducible analytical workflow.
 _____________________
 ## Key Results
