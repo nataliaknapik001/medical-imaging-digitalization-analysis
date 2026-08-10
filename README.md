@@ -54,13 +54,21 @@ Further analysis using a larger dataset and a longer observation period would be
 Overall, this case study showed  how data analysis can be used to evaluate a real-world healthcare process and support decisions about digital transformation.
 ____________________
 ## Project Structure 
-<img width="260" height="152" alt="image" src="https://github.com/user-attachments/assets/2abd9ccc-37c9-4305-9ac8-bb085e08f1fd" />
-
+medical-imaging-digitalization-analysis/
+│
+├── README.md
+│
+├── data/
+│   └── medical_imaging_data.csv
+│
+└── analysis/
+    ├── medical_imaging_analysis.xlsx
+    ├── medical_imaging_analysis.ipynb
+    └── digital_adoption_trend.png
 ____________________
 ## Tools
-- Microsoft Excel
-- SQL Server / SQL Server Management Studio (SSMS)
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+- Excel — initial calculations and KPI analysis
+- SQL — data querying, aggregation, and data quality checks
+- Python & Pandas — data analysis and calculations
+- Matplotlib — data visualization
+- Jupyter Notebook — documenting the Python analysis
