@@ -54,6 +54,8 @@ Further analysis using a larger dataset and a longer observation period would be
 Overall, this case study showed  how data analysis can be used to evaluate a real-world healthcare process and support decisions about digital transformation.
 ____________________
 ## Project Structure 
+
+```text
 medical-imaging-digitalization-analysis/
 │
 ├── README.md
