@@ -68,7 +68,7 @@ ____________________
 3. Run the notebook from the beginning.
 4. The notebook loads the dataset from `data/medical_imaging_data.csv`.
 ____________________
-## Project Structure 
+## Project Structure
 
 ```text
 medical-imaging-digitalization-analysis/
@@ -79,9 +79,10 @@ medical-imaging-digitalization-analysis/
 │   └── medical_imaging_data.csv
 │
 └── analysis/
-    ├── medical_imaging_analysis.xlsx
     ├── medical_imaging_analysis.ipynb
+    ├── medical_imaging_analysis.xlsx
     └── digital_adoption_trend.png
+```
 
 
 
