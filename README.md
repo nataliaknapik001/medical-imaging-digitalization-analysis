@@ -72,9 +72,10 @@ medical-imaging-digitalization-analysis/
 │   └── medical_imaging_data.csv
 │
 └── analysis/
+    ├── digital_adoption_trend.png
+    ├── medical_imaging_.sql
     ├── medical_imaging_analysis.ipynb
-    ├── medical_imaging_analysis.xlsx
-    └── digital_adoption_trend.png
+    └── medical_imaging_analysis.xlsx
 ```
 
 
