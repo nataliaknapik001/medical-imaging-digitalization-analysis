@@ -46,7 +46,7 @@ _____________________
 During the analyzed period, digital adoption increased from 5% in August to 27% in October 2025, representing an increase of 22 percentage points.
 A total of 4,192 examinations were recorded, including 654 digital results and 3,538 CD results.
 The total estimated cost of traditional distribution was 5,114.24 PLN.
-The traditional distribution cost per examination remained approximately 1.22 PLN throughout the analyzed period. Therefore, the available data does not provide sufficient evidence to conclude that increasing digital adoption directly reduced the unit cost of traditional distribution.
+The average traditional distribution cost was approximately 1.22 PLN per examination during the analyzed period. Therefore, the available data does not provide sufficient evidence to conclude that increasing digital adoption directly reduced the unit cost of traditional distribution.
 ____________________
 ## Conclusions
 The results showed that increasing digital adoption did not immediately translate into a lower cost per examination. This suggests that the financial impact of digitalization may depend on a longer implementation period and a higher level of adoption.
