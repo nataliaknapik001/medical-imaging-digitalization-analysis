@@ -61,6 +61,13 @@ ___________________
 - Matplotlib — data visualization
 - Jupyter Notebook — documenting the Python analysis
 ____________________
+## How to Run
+
+1. Clone the repository.
+2. Open `analysis/medical_imaging_analysis.ipynb` in Jupyter Notebook or JupyterLab.
+3. Run the notebook from the beginning.
+4. The notebook loads the dataset from `data/medical_imaging_data.csv`.
+____________________
 ## Project Structure 
 
 ```text
